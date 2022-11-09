@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block{
+width: 100%;
+background-color:red;
+height: 100px;
+position: fixed;
+}
+
+.block h1{
+    text-align: center;
+    color: white;
+    margin-top: 29px;
+}
+
+.vedio{
+    max-width: 1690px;
+    margin:85px auto;
+    
+}
